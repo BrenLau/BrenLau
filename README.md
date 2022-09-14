@@ -7,13 +7,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BrenLau)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenLau&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BrenLau)
+
 
 
 
