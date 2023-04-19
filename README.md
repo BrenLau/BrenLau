@@ -9,22 +9,12 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+- 🔭 I’m currently working on two new projects since graduating from App Academy, hiremepls and The Great Exchange.
+- hiremepls is a platform for interviewees to post questions they've been asked on interviews and users can submit how they answered the question, and allows for other users to give feedback by replying or liking the answer.
+- The Great Exchange is a marketplace that allows users to trade items for other items and/or money, which utilizes S3 for image storage to display images in posts and utilizes sockets for a live chat, so that users can communicate with eachother in live time whether its about a trade or personal conversations.
 
+<!-- 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenLau&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=BrenLau)
-
-
-
-
-
-
-**BrenLau/BrenLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -32,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
