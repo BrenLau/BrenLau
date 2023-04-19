@@ -1,4 +1,6 @@
 ### Hi there, I'm Brendan Lau! 👋
+NYC
+Email: BLau4000@gmail.com
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -13,6 +15,8 @@
 - hiremepls is a platform for interviewees to post questions they've been asked on interviews and users can submit how they answered the question, and allows for other users to give feedback by replying or liking the answer.
 - The Great Exchange is a marketplace that allows users to trade items for other items and/or money, which utilizes S3 for image storage to display images in posts and utilizes sockets for a live chat, so that users can communicate with eachother in live time whether its about a trade or personal conversations.
 
+
+Portfolio: https://brenlau.github.io/
 <!-- 
 
 - 🌱 I’m currently learning ...
