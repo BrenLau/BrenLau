@@ -10,6 +10,7 @@ Email: BLau4000@gmail.com
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 - 🔭 I’m currently working on two new projects since graduating from App Academy, hiremepls and The Great Exchange.
 - hiremepls is a platform for interviewees to post questions they've been asked on interviews and users can submit how they answered the question, and allows for other users to give feedback by replying or liking the answer.
