@@ -12,7 +12,11 @@ Email: BLau4000@gmail.com
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-- I am currently working on a private project for Puerto Rican rapper Ozuna for his upcoming Euro Tour.
+-I am currently working on a BlackJack calculator app that will serve to assist blackjack players in making decisions with accurate probability calculations. This will
+include dealers probability of hitting each number or bust, the players odds of busting on the next hit, and even side bet odds.
+- I've collaborated with a Puerto Rican artist to create a web project using 
+Django and email services. I've developed a captivating splash page for his upcoming 
+tour, allowing users to subscribe to email notifications and view the schedule of upcoming tour dates.
 - 🔭 I’ve worked on two new personal projects since graduating from App Academy, hiremepls and The Great Exchange.
 - hiremepls is a platform for interviewees to post questions they've been asked on interviews and users can submit how they answered the question, and allows for other users to give feedback by replying or liking the answer.
 - The Great Exchange is a marketplace that allows users to trade items for other items and/or money, which utilizes S3 for image storage to display images in posts and utilizes sockets for a live chat, so that users can communicate with eachother in live time whether its about a trade or personal conversations.
