@@ -12,7 +12,7 @@ Email: BLau4000@gmail.com
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
--I am currently working on a BlackJack calculator app that will serve to assist blackjack players in making decisions with accurate probability calculations. This will
+- I am currently working on a BlackJack calculator app that will serve to assist blackjack players in making decisions with accurate probability calculations. This will
 include dealers probability of hitting each number or bust, the players odds of busting on the next hit, and even side bet odds.
 - I've collaborated with a Puerto Rican artist to create a web project using 
 Django and email services. I've developed a captivating splash page for his upcoming 
